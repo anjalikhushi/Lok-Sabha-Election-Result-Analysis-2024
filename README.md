@@ -1,4 +1,5 @@
-LOK SABHA ELECTION RESULT ANALYSIS 2024
+# LOK SABHA ELECTION RESULT ANALYSIS 2024
+![dd](https://github.com/anjalikhushi/Lok-Sabha-Election-Result-Analysis-2024/assets/82653640/e5d18583-5ad9-4b47-88c5-2c7a267d219b)
 
 Anin-depth data analysis of the Loksabha Election 2024 results using Python and Power BI. Join us as we explore the election data, uncover insights, and visualize the outcomes.
 
